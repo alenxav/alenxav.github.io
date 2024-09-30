@@ -10,10 +10,10 @@
 
 ## Packages, apps
 
-+ <span style="color:darkolivegreen;font-weight:bold"> [bWGR](https://CRAN.R-project.org/package=bWGR)  </span> - Bayesian Whole Genome Regression & modeling tools
++ [bWGR](https://CRAN.R-project.org/package=bWGR) - Bayesian Whole Genome Regression & modeling tools (<span style="color:blue;font-weight:bold">Active</span>)
 + [NAM](https://CRAN.R-project.org/package=NAM) - Nested Association Mapping & breeding tools
 + [SoyNAM](https://CRAN.R-project.org/package=SoyNAM) - Soybean Nested Association Mapping dataset
-+ [mas](https://CRAN.R-project.org/package=mas) - Multivariate/Multipopulation Association Studyies
++ [mas](https://CRAN.R-project.org/package=mas) - Multivariate/Multipopulation Association Studyies (<span style="color:blue;font-weight:bold">Active</span>)
 
 
 
