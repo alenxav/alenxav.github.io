@@ -10,8 +10,8 @@
 
 ## Contact
 
-+ (Google scholar)[https://scholar.google.com/citations?user=SEfnriIAAAAJ&hl=en&oi=sra]
-+ (LinkedIn)[https://www.linkedin.com/in/alenxav/]
++ [Google scholar](https://scholar.google.com/citations?user=SEfnriIAAAAJ&hl=en&oi=sra)
++ [LinkedIn](https://www.linkedin.com/in/alenxav/)
 + e-mail: alenxav@gmail.com
 + phone: (+1) 765 641 2572
 
