@@ -1,7 +1,9 @@
 + [Google scholar](https://scholar.google.com/citations?user=SEfnriIAAAAJ&hl=en&oi=sra)
 + [LinkedIn](https://www.linkedin.com/in/alenxav/)
++ [ORCID](https://orcid.org/0000-0001-5034-9954)
 + e-mail: alenxav@gmail.com
 + phone: (+1) 765 631 2572
++ Old website - [LINK](https://alenxav.wixsite.com/home)
 
 ## Resumes
 
