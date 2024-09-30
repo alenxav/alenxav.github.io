@@ -1,5 +1,3 @@
-# alenxav.github.io
-
 ## Background material
 
 + [Lectures directory](https://github.com/alenxav/Lectures)
