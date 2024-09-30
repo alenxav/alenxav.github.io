@@ -65,3 +65,16 @@
 + Xavier, A. and Morota, G. Short course in mixed models. *UFV*, 2018. [LINK](https://github.com/alenxav/Lectures/upload)
 + AGRY611, Quantitative Genetics (7 lectures), Purdue University, Fall 2017. [LINK](https://github.com/alenxav/Lectures/tree/master/Purdue_2017)
 + Xavier, A. Analytical Methods for Phenomics. *Purdue Phenomic Workshop*, 2017. [LINK](https://github.com/alenxav/Lectures/blob/master/PhenomicWorkshop2017/AX_Phenomic2017.pdf)
+
+## Research Areas
++ Field Breeding and Efficient Data Collection
++ Genome-wide Association Studies and QTL mapping
++ Genome-wide prediction and genomic selection
++ Multivariate and single-step mixed linear models
++ Indirect Selection, Genetic Correlations, Improvement of Heritability and Genetic Gains
++ Phenomics and High-Throughput Technologies in Plant Breeding
++ Spatial Statistics, Adjustment of Field Variation and Imputation Methods
++ Machine Learning, Data Mining, Computational Breeding, MCMC and Bayesian Analysis
++ Algorithm development and high-performance computing
++ Reaction norms for genotype-by-environment interaction modeling and stability
++ Signatures of Selection and Applied Population Genetics
