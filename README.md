@@ -10,25 +10,23 @@
 
 ## Packages, apps
 
-+ [bWGR](https://CRAN.R-project.org/package=bWGR) - Bayesian Whole Genome Regression & modeling tools (<u><span style="color:green;font-weight:bold">Active</span></u>)
-+ [mas](https://CRAN.R-project.org/package=mas) - Multivariate/Multipopulation Association Studyies (<u><span style="color:green;font-weight:bold">Active</span></u>)
-+ [NAM](https://CRAN.R-project.org/package=NAM) - Nested Association Mapping & breeding tools
-+ [SoyNAM](https://CRAN.R-project.org/package=SoyNAM) - Soybean Nested Association Mapping dataset
-
-
++ [bWGR](https://CRAN.R-project.org/package=bWGR): Bayesian Whole Genome Regression & modeling tools (<u><span style="color:green;font-weight:bold">Active</span></u>)
++ [mas](https://CRAN.R-project.org/package=mas): Multivariate/Multipopulation Association Studyies (<u><span style="color:green;font-weight:bold">Active</span></u>)
++ [NAM](https://CRAN.R-project.org/package=NAM): Nested Association Mapping & breeding tools
++ [SoyNAM](https://CRAN.R-project.org/package=SoyNAM): Soybean Nested Association Mapping dataset
 
 ## Background material
 
 + [Lecture directory](https://github.com/alenxav/Lectures)
 + [Presentation on YouTube](https://www.youtube.com/watch?v=R-wf0arvXgY&list=PLTT5xNnxhHh1ksfTIQ-Nmo-5gh1tgkMEZ)
-+ [Lecture on variance components](https://rpubs.com/alenxav/varComp) - R code, estimate variances and metrics (<span style="color:green;font-weight:bold">Nice one</span>)
++ [Lecture on variance components](https://rpubs.com/alenxav/varComp) - R code, estimate variances and metrics (<u><span style="color:green;font-weight:bold">Nice one</span></u>)
 + [Lecture on R basics](https://rpubs.com/alenxav/introR) - Example of R base code, including function and plots 
 + [Mixed models lecture](https://rpubs.com/alenxav/purdue_mm) - Basic background on models, predictions, and signal detection
 
 
 ### Methods and reviews
 
-+ [Efficient implementation of multivariate methods](https://link.springer.com/article/10.1186/s12711-022-00730-w)
++ [Efficient implementation of multivariate methods](https://link.springer.com/article/10.1186/s12711-022-00730-w) (<u><span style="color:green;font-weight:bold">Nice one</span></u>)
 + [Efficient computation of marker effects](https://academic.oup.com/g3journal/article/9/11/3855/6026796)
 + [Technical nuances of machine learning in GS](https://www.scielo.br/j/cbab/a/LJZWMkLv5sKH3v8Gd3knQRy/)
 + [Statistical black boxes of plant breeding](https://link.springer.com/article/10.1007/s00122-016-2750-y)
