@@ -1,3 +1,24 @@
+## Contact
+
++ [Google scholar](https://scholar.google.com/citations?user=SEfnriIAAAAJ&hl=en&oi=sra)
++ [LinkedIn](https://www.linkedin.com/in/alenxav/)
++ e-mail: alenxav@gmail.com
++ phone: (+1) 765 641 2572
+
+## Resumes
+
++ [Academic resume](https://github.com/alenxav/Lectures/blob/master/AX_Resume.pdf)
++ [Descriptive resume](https://github.com/alenxav/Lectures/blob/master/DescriptiveResume2021.pdf) 
+
+## Packages, apps
+
++ [<span style="color: green"> bWGR </span>](https://CRAN.R-project.org/package=bWGR) - Bayesian Whole Genome Regression & modeling tools
++ [NAM](https://CRAN.R-project.org/package=NAM) - Nested Association Mapping & breeding tools
++ [SoyNAM](https://CRAN.R-project.org/package=SoyNAM) - Soybean Nested Association Mapping dataset
++ [mas](https://CRAN.R-project.org/package=mas) - Multivariate/Multipopulation Association Studyies
+
+
+
 ## Background material
 
 + [Lecture directory](https://github.com/alenxav/Lectures)
@@ -6,24 +27,6 @@
 + [Lecture on R basics](https://rpubs.com/alenxav/introR) - Example of R base code, including function and plots
 + [Mixed models lecture](https://rpubs.com/alenxav/purdue_mm) - Basic background on models, predictions, and signal detection
 
-## Contact
-
-+ [Google scholar](https://scholar.google.com/citations?user=SEfnriIAAAAJ&hl=en&oi=sra)
-+ [LinkedIn](https://www.linkedin.com/in/alenxav/)
-+ e-mail: alenxav@gmail.com
-+ phone: (+1) 765 641 2572
-
-## Packages, apps
-
-+ [bWGR](https://CRAN.R-project.org/package=bWGR) - Bayesian Whole Genome Regression & modeling tools
-+ [NAM](https://CRAN.R-project.org/package=NAM) - Nested Association Mapping & breeding tools
-+ [SoyNAM](https://CRAN.R-project.org/package=SoyNAM) - Soybean Nested Association Mapping dataset
-+ [mas](https://CRAN.R-project.org/package=mas) - Multivariate/Multipopulation Association Studyies
-
-## Resumes
-
-+ [Academic resume](https://github.com/alenxav/Lectures/blob/master/AX_Resume.pdf)
-+ [Descriptive resume](https://github.com/alenxav/Lectures/blob/master/DescriptiveResume2021.pdf) 
 
 ### Methods and reviews
 
