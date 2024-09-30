@@ -21,8 +21,8 @@
 
 + [Lecture directory](https://github.com/alenxav/Lectures)
 + [Presentation on YouTube](https://www.youtube.com/watch?v=R-wf0arvXgY&list=PLTT5xNnxhHh1ksfTIQ-Nmo-5gh1tgkMEZ)
-+ [Lecture on variance components](https://rpubs.com/alenxav/varComp) - R code, solve mixed models, estimate variances and metrics
-+ [Lecture on R basics](https://rpubs.com/alenxav/introR) - Example of R base code, including function and plots
++ [Lecture on variance components](https://rpubs.com/alenxav/varComp) - R code, estimate variances and metrics (<span style="color:green;font-weight:bold">Nice one</span>)
++ [Lecture on R basics](https://rpubs.com/alenxav/introR) - Example of R base code, including function and plots 
 + [Mixed models lecture](https://rpubs.com/alenxav/purdue_mm) - Basic background on models, predictions, and signal detection
 
 
