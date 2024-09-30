@@ -1,5 +1,3 @@
-## Contact
-
 + [Google scholar](https://scholar.google.com/citations?user=SEfnriIAAAAJ&hl=en&oi=sra)
 + [LinkedIn](https://www.linkedin.com/in/alenxav/)
 + e-mail: alenxav@gmail.com
@@ -12,7 +10,7 @@
 
 ## Packages, apps
 
-+ <span style="color: green" class="Bold"> [bWGR](https://CRAN.R-project.org/package=bWGR)  </span> - Bayesian Whole Genome Regression & modeling tools
++ <span style="color: green", class="Bold"> [bWGR](https://CRAN.R-project.org/package=bWGR)  </span> - Bayesian Whole Genome Regression & modeling tools
 + [NAM](https://CRAN.R-project.org/package=NAM) - Nested Association Mapping & breeding tools
 + [SoyNAM](https://CRAN.R-project.org/package=SoyNAM) - Soybean Nested Association Mapping dataset
 + [mas](https://CRAN.R-project.org/package=mas) - Multivariate/Multipopulation Association Studyies
