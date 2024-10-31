@@ -30,12 +30,13 @@
 
 ### Methods and reviews
 
++ [Megavariate methods to capture GxE](https://github.com/alenxav/Lectures/blob/master/Manuscripts/30_Genetics_2024.pdf)
 + [Efficient implementation of multivariate methods](https://link.springer.com/article/10.1186/s12711-022-00730-w) (<u><span style="color:green;font-weight:bold">Nice one</span></u>)
 + [Efficient computation of marker effects](https://academic.oup.com/g3journal/article/9/11/3855/6026796)
 + [Technical nuances of machine learning in GS](https://www.scielo.br/j/cbab/a/LJZWMkLv5sKH3v8Gd3knQRy/)
 + [Statistical black boxes of plant breeding](https://link.springer.com/article/10.1007/s00122-016-2750-y)
 
-## Key papers
+## Investigation papers
 
 + [Quantitative genetics of yield components in soybeans](https://doi.org/10.1534/g3.119.400896)
 + [Genetic architecture of phenomic-enabled canopy coverage in soy](https://academic.oup.com/genetics/article/206/2/1081/6064267)
@@ -43,7 +44,6 @@
 + [Quantitative metrics from the USDA soybean germplasm collection](https://doi.org/10.1017/S1479262118000102)
 + [Joint modeling of genetics and field variation](https://www.mdpi.com/2073-4395/11/7/1397)
 + [Factors impacting long-term gains in breeding](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.637133/full)
-
 
 ## Links to talks and lectures
 
@@ -68,6 +68,7 @@
 + Xavier, A. Analytical Methods for Phenomics. *Purdue Phenomic Workshop*, 2017. [LINK](https://github.com/alenxav/Lectures/blob/master/PhenomicWorkshop2017/AX_Phenomic2017.pdf)
 
 ## Research Areas
+
 + Field Breeding and Efficient Data Collection
 + Genome-wide Association Studies and QTL mapping
 + Genome-wide prediction and genomic selection
