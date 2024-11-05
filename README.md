@@ -30,7 +30,7 @@
 
 ### Methods and reviews
 
-+ [Megavariate methods to capture GxE](https://doi.org/10.1093/genetics/iyae179) (<u><span style="color:green;font-weight:bold">Nice one</span></u>)
++ [Megavariate methods to capture GxE](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyae179/7875068?utm_source=authortollfreelink&utm_campaign=genetics&utm_medium=email&guestAccessKey=ba39787f-83ec-417a-ad46-5112b3d2603f) (<u><span style="color:green;font-weight:bold">Nice one</span></u>)
 + [Efficient implementation of multivariate methods](https://link.springer.com/article/10.1186/s12711-022-00730-w) (<u><span style="color:green;font-weight:bold">Nice one</span></u>)
 + [Efficient computation of marker effects](https://academic.oup.com/g3journal/article/9/11/3855/6026796)
 + [Technical nuances of machine learning in GS](https://www.scielo.br/j/cbab/a/LJZWMkLv5sKH3v8Gd3knQRy/)
