@@ -30,6 +30,7 @@
 
 ### Methods and reviews
 
++ [GIS-based GxE modeling of maize hybrids through enviromic markers engineering](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19951)
 + [Milestones after a decade of machine learning in GS](https://link.springer.com/article/10.1007/s10462-025-11274-y)
 + [Megavariate methods to capture GxE](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyae179/7875068?utm_source=authortollfreelink&utm_campaign=genetics&utm_medium=email&guestAccessKey=ba39787f-83ec-417a-ad46-5112b3d2603f) (<u><span style="color:green;font-weight:bold">Nice one</span></u>)
 + [Efficient implementation of multivariate methods](https://link.springer.com/article/10.1186/s12711-022-00730-w) (<u><span style="color:green;font-weight:bold">Nice one</span></u>)
@@ -39,6 +40,7 @@
 
 ## Investigation papers
 
++ [Global GxE prediction competition reveals modeling strategies deliver satisfactory yield estimates](https://academic.oup.com/genetics/article/229/2/iyae195/7906942)
 + [Quantitative genetics of yield components in soybeans](https://doi.org/10.1534/g3.119.400896)
 + [Genetic architecture of phenomic-enabled canopy coverage in soy](https://academic.oup.com/genetics/article/206/2/1081/6064267)
 + [Unsupervised learning to infer tradeoffs among quantitative traits](https://link.springer.com/article/10.1007/s10681-017-1975-4)
@@ -48,6 +50,7 @@
 
 ## Links to talks and lectures
 
++ Introduction to scalable megavariate models. NAPPN 2025. [LINK](https://github.com/alenxav/Lectures/blob/master/NAPPN_2025/NAPPN_2025.pdf)
 + Trends of predictive breeding. ASTA 2023. [LINK](https://github.com/alenxav/Lectures/blob/master/ASTA_2023/AX_2023_ASTA.pdf)
 + Machine learning-based breeding. ASA-CSSA-SSSA 2023. [LINK](https://github.com/alenxav/Lectures/blob/master/ASA_2023/AX_2023_ASA.pdf)
 + Machine learning-based AI applied to breeding. Purdue 2023. [LINK](https://github.com/alenxav/Lectures/blob/master/Purdue_2023/AX_Purdue_2023.pdf)
@@ -70,7 +73,7 @@
 
 ## Research Areas
 
-+ Field Breeding and Efficient Data Collection
++ Pipeline and portfolio optimization, breeding flowcharts, genetic trends;
 + Genome-wide Association Studies and QTL mapping
 + Genome-wide prediction and genomic selection
 + Multivariate and single-step mixed linear models
@@ -80,4 +83,6 @@
 + Machine Learning, Data Mining, Computational Breeding, MCMC and Bayesian Analysis
 + Algorithm development and high-performance computing
 + Reaction norms for genotype-by-environment interaction modeling and stability
++ Environmental classification and Test Network Optimization    
 + Signatures of Selection and Applied Population Genetics
++ Field Breeding Optimization and Efficient Data Collection
