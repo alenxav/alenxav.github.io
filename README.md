@@ -29,14 +29,14 @@ Welcome to my GitHub page! I am a dedicated researcher specializing in the appli
 
 | Package/App | Description | Status |
 | :--- | :--- | :---: |
-| **[bWGR](https://CRAN.R-project.org/package=bWGR)** | Bayesian Whole Genome Regression and modeling tools. | :gree_circle: |
-| **[mas](https://CRAN.R-project.org/package=mas)** | Tools for Multivariate/Multipopulation Association Studies. | :gree_circle: |
-| **[pegs](https://CRAN.R-project.org/package=pegs)** | Soybean Nested Association Mapping dataset. | :gree_circle:  |
+| **[bWGR](https://CRAN.R-project.org/package=bWGR)** | Bayesian Whole Genome Regression and modeling tools. | :green_circle: |
+| **[mas](https://CRAN.R-project.org/package=mas)** | Tools for Multivariate/Multipopulation Association Studies. | :hammer_and_wrench: |
+| **[pegs](https://CRAN.R-project.org/package=pegs)** | Soybean Nested Association Mapping dataset. | :green_circle:  |
 | **[NAM](https://CRAN.R-project.org/package=NAM)** | Nested Association Mapping and breeding tools. | 	:yellow_circle: |
 | **[SoyNAM](https://CRAN.R-project.org/package=SoyNAM)** | Soybean Nested Association Mapping dataset. | :yellow_circle:  |
-| **[G2F](https://github.com/alenxav/G2F)** | 2025 Genomes-to-Field GxE prediction dataset. |  |
-| **[SGC](https://github.com/alenxav/SGC)** | USDA Soybean Germplasm Collection and Passport data. |  |
-| **[MET accuracy app](https://xaviera.shinyapps.io/Accuracy/)** | A Shiny app for assessing the accuracy of multi-environment trials. |  |
+| **[G2F](https://github.com/alenxav/G2F)** | 2025 Genomes-to-Field GxE prediction dataset. | :yellow_circle:  |
+| **[SGC](https://github.com/alenxav/SGC)** | USDA Soybean Germplasm Collection and Passport data. | :yellow_circle:  |
+| **[MET accuracy app](https://xaviera.shinyapps.io/Accuracy/)** | A Shiny app for assessing the accuracy of multi-environment trials. | :red_circle: |
 
 ---
 
