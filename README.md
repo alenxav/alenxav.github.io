@@ -79,7 +79,9 @@ A selection of recent and notable presentations:
 | 2023 | [Machine learning-based breeding](https://github.com/alenxav/Lectures/blob/master/ASA_2023/AX_2023_ASA.pdf) | ASA-CSSA-SSSA 2023 |
 | 2023 | [Machine learning-based AI applied to breeding](https://github.com/alenxav/Lectures/blob/master/Purdue_2023/AX_Purdue_2023.pdf) | Purdue University |
 | 2022 | [Leveraging correlated information under multivariate settings](https://github.com/alenxav/Lectures/blob/master/UGA_2023/AX_UGA_2023.11.05.pdf) | University of Georgia |
-| 2021 | [Technical Nuances of Machine Learning](https://www.youtube.com/watch?v=FigeoXVI1cM&feature=emb_imp_woyt) | Iowa State University |
+| 2021 | [Overview on Plant Breeding Analytics](https://rpubs.com/alenxav/pbanalytics) | Purdue University |
+| 2019 | [Good learners, faster learning]([https://www.youtube.com/watch?v=FigeoXVI1cM&feature=emb_imp_woyt](https://pag.confex.com/pag/xxvii/meetingapp.cgi/Paper/33034)) | PAG |
+| 2015 | [Technical Nuances of Machine Learning](https://www.youtube.com/watch?v=FigeoXVI1cM&feature=emb_imp_woyt) | Iowa State University |
 
 ---
 
