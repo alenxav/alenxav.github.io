@@ -29,9 +29,9 @@ Welcome to my GitHub page! I am a dedicated researcher specializing in the appli
 
 | Package/App | Description | Status |
 | :--- | :--- | :---: |
-| **[bWGR](https://CRAN.R-project.org/package=bWGR)** | Bayesian Whole Genome Regression and modeling tools. | 🟢 **Active** |
-| **[mas](https://CRAN.R-project.org/package=mas)** | Tools for Multivariate/Multipopulation Association Studies. | 🟢 **Active** |
-| **[pegs](https://CRAN.R-project.org/package=pegs)** | Soybean Nested Association Mapping dataset. | 🟢 **Active**  |
+| **[bWGR](https://CRAN.R-project.org/package=bWGR)** | Bayesian Whole Genome Regression and modeling tools. | :gree_circle: |
+| **[mas](https://CRAN.R-project.org/package=mas)** | Tools for Multivariate/Multipopulation Association Studies. | :gree_circle: |
+| **[pegs](https://CRAN.R-project.org/package=pegs)** | Soybean Nested Association Mapping dataset. | :gree_circle:  |
 | **[NAM](https://CRAN.R-project.org/package=NAM)** | Nested Association Mapping and breeding tools. | 	:yellow_circle: |
 | **[SoyNAM](https://CRAN.R-project.org/package=SoyNAM)** | Soybean Nested Association Mapping dataset. | :yellow_circle:  |
 | **[G2F](https://github.com/alenxav/G2F)** | 2025 Genomes-to-Field GxE prediction dataset. |  |
@@ -41,6 +41,13 @@ Welcome to my GitHub page! I am a dedicated researcher specializing in the appli
 ---
 
 ### 🔬 Research Highlights
+
+#### Background material
++ [Lecture directory](https://github.com/alenxav/Lectures) - Repo of slide decks from lectures and presentations
++ [Lecture on variance components](https://rpubs.com/alenxav/varComp) - R code, estimate variances and metrics (<u><span style="color:green;font-weight:bold">Nice one</span></u>)
++ [Lecture on R basics](https://rpubs.com/alenxav/introR) - Example of R base code, including functions and plots 
++ [Mixed models lecture](https://rpubs.com/alenxav/purdue_mm) - Basic background on models, predictions, and signal detection
++ [Presentation on YouTube](https://www.youtube.com/watch?v=R-wf0arvXgY&list=PLTT5xNnxhHh1ksfTIQ-Nmo-5gh1tgkMEZ) - Recordings from lectures and events
 
 #### Methods and Reviews
 *   [GIS-based GxE modeling of maize hybrids through enviromic markers engineering](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19951)
@@ -60,13 +67,6 @@ Welcome to my GitHub page! I am a dedicated researcher specializing in the appli
 *   [Joint modeling of genetics and field variation](https://www.mdpi.com/2073-4395/11/7/1397)
 *   [Factors impacting long-term gains in breeding](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.637133/full)
 
-#### Background material
-
-+ [Lecture directory](https://github.com/alenxav/Lectures)
-+ [Presentation on YouTube](https://www.youtube.com/watch?v=R-wf0arvXgY&list=PLTT5xNnxhHh1ksfTIQ-Nmo-5gh1tgkMEZ)
-+ [Lecture on variance components](https://rpubs.com/alenxav/varComp) - R code, estimate variances and metrics (<u><span style="color:green;font-weight:bold">Nice one</span></u>)
-+ [Lecture on R basics](https://rpubs.com/alenxav/introR) - Example of R base code, including functions and plots 
-+ [Mixed models lecture](https://rpubs.com/alenxav/purdue_mm) - Basic background on models, predictions, and signal detection
 
 ---
 
