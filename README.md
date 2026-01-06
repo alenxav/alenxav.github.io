@@ -29,11 +29,14 @@ Welcome to my GitHub page! I am a dedicated researcher specializing in the appli
 
 | Package/App | Description | Status |
 | :--- | :--- | :---: |
-| **[MET accuracy app](https://xaviera.shinyapps.io/Accuracy/)** | A Shiny app for assessing the accuracy of multi-environment trials. |  aktif |
 | **[bWGR](https://CRAN.R-project.org/package=bWGR)** | Bayesian Whole Genome Regression and modeling tools. | 🟢 **Active** |
 | **[mas](https://CRAN.R-project.org/package=mas)** | Tools for Multivariate/Multipopulation Association Studies. | 🟢 **Active** |
-| **[NAM](https://CRAN.R-project.org/package=NAM)** | Nested Association Mapping and breeding tools. |  |
-| **[SoyNAM](https://CRAN.R-project.org/package=SoyNAM)** | Soybean Nested Association Mapping dataset. |  |
+| **[pegs](https://CRAN.R-project.org/package=pegs)** | Soybean Nested Association Mapping dataset. | 🟢 **Active**  |
+| **[NAM](https://CRAN.R-project.org/package=NAM)** | Nested Association Mapping and breeding tools. | 	:yellow_circle: |
+| **[SoyNAM](https://CRAN.R-project.org/package=SoyNAM)** | Soybean Nested Association Mapping dataset. | :yellow_circle:  |
+| **[G2F](https://github.com/alenxav/G2F)** | 2025 Genomes-to-Field GxE prediction dataset. |  |
+| **[SGC](https://github.com/alenxav/SGC)** | USDA Soybean Germplasm Collection and Passport data. |  |
+| **[MET accuracy app](https://xaviera.shinyapps.io/Accuracy/)** | A Shiny app for assessing the accuracy of multi-environment trials. |  |
 
 ---
 
@@ -42,11 +45,11 @@ Welcome to my GitHub page! I am a dedicated researcher specializing in the appli
 #### Methods and Reviews
 *   [GIS-based GxE modeling of maize hybrids through enviromic markers engineering](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19951)
 *   [Milestones after a decade of machine learning in GS](https://link.springer.com/article/10.1007/s10462-025-11274-y)
-*   [Megavariate methods to capture GxE](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyae179/7875068?utm_source=authortollfreelink&utm_campaign=genetics&utm_medium=email&guestAccessKey=ba39787f-83ec-417a-ad46-5112b3d2603f)
-*   [Efficient implementation of multivariate methods](https://link.springer.com/article/10.1186/s12711-022-00730-w)
+*   [Megavariate methods to capture GxE](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyae179/7875068?utm_source=authortollfreelink&utm_campaign=genetics&utm_medium=email&guestAccessKey=ba39787f-83ec-417a-ad46-5112b3d2603f) :star:
+*   [Efficient implementation of multivariate methods](https://link.springer.com/article/10.1186/s12711-022-00730-w) :star:
 *   [Efficient computation of marker effects](https://academic.oup.com/g3journal/article/9/11/3855/6026796)
 *   [Technical nuances of machine learning in GS](https://www.scielo.br/j/cbab/a/LJZWMkLv5sKH3v8Gd3knQRy/)
-*   [Statistical black boxes of plant breeding](https://link.springer.com/article/10.1007/s00122-016-2750-y)
+*   [Statistical black boxes of plant breeding](https://link.springer.com/article/10.1007/s00122-016-2750-y) :star:
 
 #### Investigation Papers
 *   [Global GxE prediction competition reveals modeling strategies deliver satisfactory yield estimates](https://academic.oup.com/genetics/article/229/2/iyae195/7906942)
@@ -56,6 +59,14 @@ Welcome to my GitHub page! I am a dedicated researcher specializing in the appli
 *   [Quantitative metrics from the USDA soybean germplasm collection](https://doi.org/10.1017/S1479262118000102)
 *   [Joint modeling of genetics and field variation](https://www.mdpi.com/2073-4395/11/7/1397)
 *   [Factors impacting long-term gains in breeding](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.637133/full)
+
+#### Background material
+
++ [Lecture directory](https://github.com/alenxav/Lectures)
++ [Presentation on YouTube](https://www.youtube.com/watch?v=R-wf0arvXgY&list=PLTT5xNnxhHh1ksfTIQ-Nmo-5gh1tgkMEZ)
++ [Lecture on variance components](https://rpubs.com/alenxav/varComp) - R code, estimate variances and metrics (<u><span style="color:green;font-weight:bold">Nice one</span></u>)
++ [Lecture on R basics](https://rpubs.com/alenxav/introR) - Example of R base code, including functions and plots 
++ [Mixed models lecture](https://rpubs.com/alenxav/purdue_mm) - Basic background on models, predictions, and signal detection
 
 ---
 
