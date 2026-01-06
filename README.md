@@ -23,7 +23,7 @@ Welcome to my GitHub page! I am a dedicated researcher specializing in the appli
 
 ---
 
-### 💻 R Packages & Shiny Apps
+### 💻 Software solutions
 
 | Package/App | Description | Status |
 | :--- | :--- | :---: |
@@ -34,7 +34,7 @@ Welcome to my GitHub page! I am a dedicated researcher specializing in the appli
 | **[SoyNAM](https://CRAN.R-project.org/package=SoyNAM)** | Soybean Nested Association Mapping dataset. | 🟡 |
 | **[G2F](https://github.com/alenxav/G2F)** | 2025 Genomes-to-Field GxE prediction dataset. | 🟡 |
 | **[SGC](https://github.com/alenxav/SGC)** | USDA Soybean Germplasm Collection and Passport data. | 🟡 |
-| **[MET accuracy app](https://xaviera.shinyapps.io/Accuracy/)** | A Shiny app for assessing the accuracy of multi-environment trials. | 🔴 |
+| **[MET accuracy app](https://xaviera.shinyapps.io/Accuracy/)** | Shiny app for assessing the accuracy of multi-environment trials. | 🔴 |
 
 ---
 
