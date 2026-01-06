@@ -29,14 +29,14 @@ Welcome to my GitHub page! I am a dedicated researcher specializing in the appli
 
 | Package/App | Description | Status |
 | :--- | :--- | :---: |
-| **[bWGR](https://CRAN.R-project.org/package=bWGR)** | Bayesian Whole Genome Regression and modeling tools. | :green_circle: |
-| **[mas](https://CRAN.R-project.org/package=mas)** | Tools for Multivariate/Multipopulation Association Studies. | :green_circle: |
-| **[pegs](https://CRAN.R-project.org/package=pegs)** | Pseudo-Expectation Gauss-Seidel light solver. | :green_circle:  |
-| **[NAM](https://CRAN.R-project.org/package=NAM)** | Nested Association Mapping and breeding tools. | 	:yellow_circle: |
-| **[SoyNAM](https://CRAN.R-project.org/package=SoyNAM)** | Soybean Nested Association Mapping dataset. | :yellow_circle:  |
-| **[G2F](https://github.com/alenxav/G2F)** | 2025 Genomes-to-Field GxE prediction dataset. | :yellow_circle:  |
-| **[SGC](https://github.com/alenxav/SGC)** | USDA Soybean Germplasm Collection and Passport data. | :yellow_circle:  |
-| **[MET accuracy app](https://xaviera.shinyapps.io/Accuracy/)** | A Shiny app for assessing the accuracy of multi-environment trials. | :red_circle: |
+| **[bWGR](https://CRAN.R-project.org/package=bWGR)** | Bayesian Whole Genome Regression and modeling tools. | 🟢 |
+| **[mas](https://CRAN.R-project.org/package=mas)** | Tools for Multivariate/Multipopulation Association Studies. | 🟢 |
+| **[pegs](https://CRAN.R-project.org/package=pegs)** | Pseudo-Expectation Gauss-Seidel light solver. | 🟡  |
+| **[NAM](https://CRAN.R-project.org/package=NAM)** | Nested Association Mapping and breeding tools. | 🟡 |
+| **[SoyNAM](https://CRAN.R-project.org/package=SoyNAM)** | Soybean Nested Association Mapping dataset. | 🟡 |
+| **[G2F](https://github.com/alenxav/G2F)** | 2025 Genomes-to-Field GxE prediction dataset. | 🟡 |
+| **[SGC](https://github.com/alenxav/SGC)** | USDA Soybean Germplasm Collection and Passport data. | 🟡 |
+| **[MET accuracy app](https://xaviera.shinyapps.io/Accuracy/)** | A Shiny app for assessing the accuracy of multi-environment trials. | 🔴 |
 
 ---
 
@@ -52,11 +52,11 @@ Welcome to my GitHub page! I am a dedicated researcher specializing in the appli
 #### Methods and Reviews
 *   [GIS-based GxE modeling of maize hybrids through enviromic markers engineering](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19951)
 *   [Milestones after a decade of machine learning in GS](https://link.springer.com/article/10.1007/s10462-025-11274-y)
-*   [Megavariate methods to capture GxE](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyae179/7875068?utm_source=authortollfreelink&utm_campaign=genetics&utm_medium=email&guestAccessKey=ba39787f-83ec-417a-ad46-5112b3d2603f) :star:
-*   [Efficient implementation of multivariate methods](https://link.springer.com/article/10.1186/s12711-022-00730-w) :star:
+*   [Megavariate methods to capture GxE](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyae179/7875068?utm_source=authortollfreelink&utm_campaign=genetics&utm_medium=email&guestAccessKey=ba39787f-83ec-417a-ad46-5112b3d2603f) ⭐
+*   [Efficient implementation of multivariate methods](https://link.springer.com/article/10.1186/s12711-022-00730-w) ⭐
 *   [Efficient computation of marker effects](https://academic.oup.com/g3journal/article/9/11/3855/6026796)
 *   [Technical nuances of machine learning in GS](https://www.scielo.br/j/cbab/a/LJZWMkLv5sKH3v8Gd3knQRy/)
-*   [Statistical black boxes of plant breeding](https://link.springer.com/article/10.1007/s00122-016-2750-y) :star:
+*   [Statistical black boxes of plant breeding](https://link.springer.com/article/10.1007/s00122-016-2750-y) ⭐
 
 #### Investigation Papers
 *   [Global GxE prediction competition reveals modeling strategies deliver satisfactory yield estimates](https://academic.oup.com/genetics/article/229/2/iyae195/7906942)
