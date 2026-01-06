@@ -1,5 +1,3 @@
-# Dr. Alen Xavier
-
 ### Quantitative Genetics and Breeding Analytics
 
 Welcome to my GitHub page! I am a dedicated researcher specializing in the application of quantitative genetics, machine learning, and advanced statistical methods to enhance plant breeding and agricultural systems. My work focuses on developing innovative analytical tools and methodologies to accelerate genetic gains and improve crop performance.
