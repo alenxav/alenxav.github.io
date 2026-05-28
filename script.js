@@ -56,3 +56,15 @@ const requestedTab = window.location.hash.replace('#', '').trim();
 if (requestedTab && tabs.some((tab) => tab.dataset.tab === requestedTab)) {
   activateTab(requestedTab);
 }
+
+const talksTimeline = document.querySelector('#panel-talks .timeline');
+if (talksTimeline) {
+  const items = Array.from(talksTimeline.querySelectorAll('li'));
+  items
+    .sort((a, b) => {
+      const yearA = Number(a.querySelector('.timeline-year')?.textContent?.trim() || 0);
+      const yearB = Number(b.querySelector('.timeline-year')?.textContent?.trim() || 0);
+      return yearB - yearA;
+    })
+    .forEach((item) => talksTimeline.appendChild(item));
+}
